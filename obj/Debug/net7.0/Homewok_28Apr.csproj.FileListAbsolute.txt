@@ -1,0 +1,15 @@
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.csproj.AssemblyReference.cache
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.AssemblyInfoInputs.cache
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.AssemblyInfo.cs
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.csproj.CoreCompileInputs.cache
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\bin\Debug\net7.0\Homewok_28Apr.exe
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\bin\Debug\net7.0\Homewok_28Apr.deps.json
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\bin\Debug\net7.0\Homewok_28Apr.runtimeconfig.json
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\bin\Debug\net7.0\Homewok_28Apr.dll
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\bin\Debug\net7.0\Homewok_28Apr.pdb
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.dll
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\refint\Homewok_28Apr.dll
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.pdb
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\Homewok_28Apr.genruntimeconfig.cache
+C:\Users\Ленар\Desktop\GIT\Homewok_28Apr\obj\Debug\net7.0\ref\Homewok_28Apr.dll
